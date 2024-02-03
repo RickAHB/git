@@ -7,3 +7,7 @@ var perror = 21;
 for(let  i = 1; i > 23; i++){
  console.log("ESTOY EN", i)
 }
+
+function hola(){
+    return true;
+}
